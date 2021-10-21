@@ -1,0 +1,56 @@
+
+	"name": "QUENTÃO DE VINHO",
+	"description": "O quentão é uma bebida típica dos meses mais frios e, principalmente, das festas juninas!",
+	"github": "rayslanne",
+	"ingredients": [{
+			"quantity": "2",
+			"measure": "litros",
+			"ingredient": "vinho tinto suave"
+		},
+		{
+			"quantity": "1",
+			"measure": "copo",
+			"ingredient": " água"
+		},
+		{
+			"quantity": "1/2",
+			"measure": "copo",
+			"ingredient": " cachaça"
+		},
+		{
+			"quantity": "1",
+			"measure": "copo",
+			"ingredient": " água"
+		},
+		{
+			"quantity": "1 e 1/2",
+			"measure": "copo",
+			"ingredient": "açucar"
+		},
+		{
+			"quantity": "2",
+			"measure": "itens",
+			"ingredient": "canela"
+		},
+		{
+			"quantity": "12",
+			"measure": "itens",
+			"ingredient": "cravo"
+		},
+		{
+			"quantity": "8",
+			"measure": "rodelas",
+			"ingredient": "gengibre"
+		}
+		"directions": [
+			"Misture todos os ingredientes ao fogo em uma panela.",
+			"Depois que levantar fervura, deixe por mais 10 minutos.",
+			"Está pronto é só servir e tomar quente."
+		],
+		"image": "<drink-name.jpg>",
+		"keywords": [
+			"<keywords if available>",
+			"..."
+		]
+	}
+
